@@ -20,12 +20,7 @@ export const Footer = () => {
         Privacidad & Legal
       </Link>
 
-      <Link
-        href='/'
-        className="mx-3"
-      >
-        Ubicaciones
-      </Link>
+     
 
 
     </div>
